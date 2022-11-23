@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MickyMick67
 - 👀 I’m interested in       ...Linux Script  Windows Server administration reseau
-- 🌱 I’m currently learning ... avec m2i formation
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
  
